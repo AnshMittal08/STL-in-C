@@ -100,7 +100,7 @@ To use these data structures and algorithms in your project, clone this reposito
     ```bash 
     ./test_program
 
-### Contributing
+## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 - Fork the repository.
@@ -109,5 +109,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 - Push to the branch (git push origin feature-branch).
 - Open a pull request.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
