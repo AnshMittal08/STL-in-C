@@ -59,11 +59,11 @@ This project is a comprehensive implementation of various Standard Template Libr
 
 9. **Hash Map**
    - Provides a hash table with chaining for collision resolution.
-   - Supports standard operations like `insert`, `delete`, `search`, and `rehash`.
+   - Supports standard operations like `insert`, `delete`, `search`.
 
 10. **Set**
     - Implements a set data structure using a hash table for fast lookups, insertions, and deletions.
-    - Supports operations like `insert`, `remove`, `contains`, and `union`.
+    - Supports operations like `insert`, `remove`, `contains`.
 
 11. **Deque**
     -Deque: Double-ended queue implemented using a doubly linked list, allowing insertion and deletion from both ends.
